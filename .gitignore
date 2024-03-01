@@ -1,0 +1,9 @@
+file::memory:?cache=shared
+venv
+instance
+docs
+*.pyc
+__pycache__
+.env
+
+data/chroma
