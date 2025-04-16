@@ -99,16 +99,6 @@ The application will be accessible at `http://127.0.0.1:5000`.
 
 ---
 
-## 📸 Screenshots  
-
-### Home Page  
-![Home Page Screenshot](https://via.placeholder.com/800x400?text=Home+Page+Screenshot)  
-
-### Chat Interface  
-![Chat Interface Screenshot](https://via.placeholder.com/800x400?text=Chat+Interface+Screenshot)  
-
----
-
 ## 🤝 Contributions  
 
 Contributions are welcome! Follow these steps to contribute:  
@@ -149,4 +139,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For questions, suggestions, or feedback, feel free to reach out:  
 
 - **GitHub**: [kneeraazon404](https://github.com/kneeraazon404)  
-- **Email**: [kneeraazon@gmail.com] (ggwp)
+- **Email**: [kneeraazon@gmail.com]
