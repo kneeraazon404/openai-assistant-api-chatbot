@@ -126,17 +126,3 @@ Contributions are welcome! Follow these steps to contribute:
 5. **Create a Pull Request**:  
    Open a pull request detailing your changes.  
 
----
-
-## 📜 License  
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
-
----
-
-## 📧 Contact  
-
-For questions, suggestions, or feedback, feel free to reach out:  
-
-- **GitHub**: [kneeraazon404](https://github.com/kneeraazon404)  
-- **Email**: [kneeraazon@gmail.com]
